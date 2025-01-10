@@ -1,4 +1,4 @@
-# A statically generated blog example using Next.js and Sanity
+<!-- # A statically generated blog example using Next.js and Sanity
 
 ![Screenshot of Sanity Studio using Presentation Tool to do Visual Editing](https://github.com/sanity-io/next.js/assets/81981/59ecd9d6-7a78-41c6-95f7-275f66fe3c9d)
 
@@ -307,4 +307,4 @@ npx vercel link
 [unsplash]: https://unsplash.com
 [sanity-homepage]: https://www.sanity.io?utm_source=github.com&utm_medium=referral&utm_campaign=nextjs-v3vercelstarter
 [presentation]: https://www.sanity.io/docs/presentation
-[enable-ai-assist]: https://www.sanity.io/plugins/ai-assist#enabling-the-ai-assist-api
+[enable-ai-assist]: https://www.sanity.io/plugins/ai-assist#enabling-the-ai-assist-api -->
